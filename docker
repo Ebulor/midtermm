@@ -1,0 +1,5 @@
+docker run -d --name test-mysql -e MYSQL_ROOT_PASSWORD=12345678 -e MYSQL_DATABASE=flights -p 3307:3306 mysql
+
+https://mvnrepository.com/artifact/javax.ejb/ejb-api/3.0
+https://mvnrepository.com/artifact/org.glassfish.web/jakarta.servlet.jsp.jstl/1.2.6
+https://mvnrepository.com/artifact/mysql/mysql-connector-java/8.0.33
